@@ -1,0 +1,65 @@
+Partlist
+
+Exported from joystick_motor_controller.sch at 11/20/2012 9:31:51 AM
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value              Device                 Package           Library             Sheet
+
+C1       .01uF              CAP_NONPOL0402         0402_CAP          parkers_parts       1
+C2       .1uF               CAP_NONPOL0402         0402_CAP          parkers_parts       1
+C3       100uF              CAP_POLARIZED6.3MM_SMD 6.3MM_DIA_CAP_SMD parkers_parts       1
+C4       .01uF              CAP_NONPOL0402         0402_CAP          parkers_parts       1
+C5       .1uF               CAP_NONPOL0402         0402_CAP          parkers_parts       1
+C6       .1uF               CAP_NONPOL0402         0402_CAP          parkers_parts       1
+C7       .1uF               CAP_NONPOL0402         0402_CAP          parkers_parts       1
+C8       .1uF               CAP_NONPOL0402         0402_CAP          parkers_parts       1
+C9       100uF              CAP1206                1206              SparkFun-Passives   1
+C10      100uF              CAP1206                1206              SparkFun-Passives   1
+C11      100uF              CAP1206                1206              SparkFun-Passives   1
+C12      100uF              CAP1206                1206              SparkFun-Passives   1
+D1       CSFMT108-HF        1N4148WSOD-123         SOD-123           parkers_parts       1
+D2       CSFMT108-HF        1N4148WSOD-123         SOD-123           parkers_parts       1
+D3       CSFMT108-HF        1N4148WSOD-123         SOD-123           parkers_parts       1
+D4       CSFMT108-HF        1N4148WSOD-123         SOD-123           parkers_parts       1
+D5       CSFMT108-HF        1N4148WSOD-123         SOD-123           parkers_parts       1
+D6       CSFMT108-HF        1N4148WSOD-123         SOD-123           parkers_parts       1
+D7       CSFMT108-HF        1N4148WSOD-123         SOD-123           parkers_parts       1
+D8       CSFMT108-HF        1N4148WSOD-123         SOD-123           parkers_parts       1
+J1       JOYSTICK_1         M03POLAR               MOLEX-1X3         SparkFun-Connectors 1
+J2       JOYSTICK_2         M03POLAR               MOLEX-1X3         SparkFun-Connectors 1
+J3       MOTOR_PWR          POWER_JACKPTH          POWER_JACK_PTH    SparkFun-Connectors 1
+J4       M2_OUTPUT          POWER_JACKPTH          POWER_JACK_PTH    SparkFun-Connectors 1
+J5       M1_OUTPUT          POWER_JACKPTH          POWER_JACK_PTH    SparkFun-Connectors 1
+P1       EVU-F3MFL3B53      POTENTIOMETERPTV09A-4  PTV09A-4_POT      parkers_parts       1
+P2       EVU-F3MFL3B53      POTENTIOMETERPTV09A-4  PTV09A-4_POT      parkers_parts       1
+R1       100K               RESISTOR0402           0402_RES          parkers_parts       1
+R2       470K               RESISTOR0402           0402_RES          parkers_parts       1
+R3       1M                 RESISTOR0402           0402_RES          parkers_parts       1
+R4       6.04K              RESISTOR0402           0402_RES          parkers_parts       1
+R5       2.1K               RESISTOR0402           0402_RES          parkers_parts       1
+R6       6.04K              RESISTOR0402           0402_RES          parkers_parts       1
+R7       220                RESISTOR0402           0402_RES          parkers_parts       1
+R8       220                RESISTOR0402           0402_RES          parkers_parts       1
+R9       5.36K              RESISTOR0402           0402_RES          parkers_parts       1
+R10      4.7K               RESISTOR0402           0402_RES          parkers_parts       1
+R11      6.04K              RESISTOR0402           0402_RES          parkers_parts       1
+R12      2.1K               RESISTOR0402           0402_RES          parkers_parts       1
+R13      6.04K              RESISTOR0402           0402_RES          parkers_parts       1
+R14      4.7K               RESISTOR0402           0402_RES          parkers_parts       1
+R15      5.36K              RESISTOR0402           0402_RES          parkers_parts       1
+R16      100K               RESISTOR0402           0402_RES          parkers_parts       1
+R17      470K               RESISTOR0402           0402_RES          parkers_parts       1
+R18      1M                 RESISTOR0402           0402_RES          parkers_parts       1
+SW1      SPPH410100         PS004_SWPS004          PS004_SW          parkers_parts       1
+SW2      0S202011MA0QN1     DPDTOS202011MA0QN1     OS202011MA0QN1    parkers_parts       1
+SW3      SPPH410100         PS004_SWPS004          PS004_SW          parkers_parts       1
+SW4      0S202011MA0QN1     DPDTOS202011MA0QN1     OS202011MA0QN1    parkers_parts       1
+U1       LM324NSRE4         LM324SOP-14            SOP-14            parkers_parts       1
+U2       LM324NSRE4         LM324SOP-14            SOP-14            parkers_parts       1
+U3       L298_BRIDGE_DRIVER L298_BRIDGE_DRIVER     POWERSO20         SparkFun-PowerIC    1
+U4       TS2937CW50         V_REG_MIC2920          SOT223            SparkFun-PowerIC    1
+U5       TS3A5018           TS3A5018TTSOP-16       TTSOP-16          parkers_parts       1
+U6       TS3A5018           TS3A5018TTSOP-16       TTSOP-16          parkers_parts       1
