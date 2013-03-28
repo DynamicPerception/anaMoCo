@@ -1,4 +1,4 @@
-nanoMoCo, and all shared files are Copyright (c) 2010-2012 Dynamic Perception LLC
+anaMoCo, and all shared files are Copyright (c) 2010-2012 Dynamic Perception LLC
 
 This project, and all of its subfiles are licensed under the CC-BY-SA 3.0 License.
 
